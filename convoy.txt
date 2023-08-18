@@ -1,0 +1,8 @@
+Bay of Bengal  (7917,2870)
+East Pacific Ocean  (1165,2828)
+Baltic Sea  (5419,1079)
+Red Sea  (6453,2840)
+Scotia Sea  (2560,5554)
+Southeast Atlantic Ocean  (5102,3745)
+Arctic Ocean  (7943,401)
+Yellow Sea  (8833,1954)

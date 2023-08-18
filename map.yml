@@ -1,0 +1,3 @@
+map_name: AgeWorld
+games:
+- {game_name: 'AgeWorld', file_name: AgeWorld.xml}
